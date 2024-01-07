@@ -1,4 +1,4 @@
-package com.example.nutri_control
+package com.mairon.nutri_control
 
 import io.flutter.embedding.android.FlutterActivity
 
